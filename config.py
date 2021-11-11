@@ -1,0 +1,6 @@
+customhost = "employee.ckjhoyr6uou4.us-east-1.rds.amazonaws.com"
+customuser = "amit_t"
+custompass = "Kadapkareen2020"
+customdb = "employee"
+custombucket = "amit-addemployee"
+customregion = "us-east-1"
